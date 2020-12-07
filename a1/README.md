@@ -11,4 +11,4 @@ Template Program
 Line Drawing
 -----------------
 1. DDA
-2. Bresh
+2. Breshenham
